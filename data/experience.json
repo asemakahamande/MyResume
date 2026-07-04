@@ -1,0 +1,71 @@
+[
+  {
+    "id": "exp-1",
+    "title": "Python, Django & React.js Developer and Instructor",
+    "company": "CodeCampus International",
+    "location": "Abuja",
+    "period": "Apr 2025 – Present",
+    "type": "Full-time",
+    "responsibilities": [
+      "Teach and mentor students in Python, Django, and React.js while developing full-stack applications."
+    ]
+  },
+  {
+    "id": "exp-2",
+    "title": "Computer Teacher / ICT Administrator",
+    "company": "Satellite Academy",
+    "location": "Karshi, Abuja",
+    "period": "Oct 2019 – Mar 2025",
+    "type": "Full-time",
+    "responsibilities": [
+      "Taught HTML, CSS, and Python programming; served as Examination Officer and ICT Administrator.",
+      "Registered students for external examinations and managed student data using advanced Excel."
+    ]
+  },
+  {
+    "id": "exp-3",
+    "title": "Full Stack Development Intern",
+    "company": "CodeCampus International",
+    "location": "Abuja",
+    "period": "Jan 2024 – May 2024",
+    "type": "Internship",
+    "responsibilities": [
+      "Contributed to full-stack web development projects as part of an internship cohort."
+    ]
+  },
+  {
+    "id": "exp-4",
+    "title": "Microsoft Excel & Python Programming Tutor",
+    "company": "ICT Hub",
+    "location": "Karshi",
+    "period": "Jul 2022 – Present",
+    "type": "Teaching",
+    "responsibilities": [
+      "Tutor learners in Advanced Microsoft Excel and Python programming."
+    ]
+  },
+  {
+    "id": "exp-5",
+    "title": "Data Science Intern — Analytics Team",
+    "company": "DataLab Nigeria",
+    "location": "Karu, Abuja",
+    "period": "Jan 2022 – Jun 2022",
+    "type": "Internship",
+    "responsibilities": [
+      "Mapped business problems to data analytics solutions and implemented statistical models across various datasets.",
+      "Wrote SQL queries to extract and analyze data, and built Power BI dashboards for business intelligence.",
+      "Used Jupyter Notebook to train and test machine learning models for price and revenue prediction."
+    ]
+  },
+  {
+    "id": "exp-6",
+    "title": "Linux, Git & Bash Trainee",
+    "company": "IstemLab Africa",
+    "location": "Karshi Branch",
+    "period": "Aug 2022 – Oct 2022",
+    "type": "Training",
+    "responsibilities": [
+      "Learned the rudiments of the Linux operating system, Git, and Bash scripting."
+    ]
+  }
+]
