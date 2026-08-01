@@ -3,7 +3,7 @@
     "id": "proj-1",
     "title": "EduSphere - Due Diligence EdTech",
     "description": "Solo Developer. Built a complete Django multi-tenant SaaS platform where multiple schools independently register and run their operations, with a new AI integration layer.",
-    "technologies": ["Django", "Celery", "Django REST Framework", "Django Channels", "ReportLab", "django-anymail", "PostgreSQL", "Anthropic Claude SDK", "Google Gemini"],
+    "technologies": ["Python", "Django", "JavaScript", "AI Integration", "PostgreSQL"],
     "link": "https://edusphere.dueliligenceedu.com",
     "github": "#",
     "image": "https://placehold.co/600x400/1e293b/38bdf8?text=EduSphere"
@@ -12,7 +12,7 @@
     "id": "proj-2",
     "title": "EduHub - Due Diligence EdTech",
     "description": "Solo Developer. A comprehensive educational hub extending the Due Diligence ecosystem for seamless school management.",
-    "technologies": ["Django", "Celery", "PostgreSQL", "React"],
+    "technologies": ["Python", "Django", "JavaScript", "AI Integration", "PostgreSQL"],
     "link": "https://eduhub.dueliligenceedu.com",
     "github": "#",
     "image": "https://placehold.co/600x400/1e293b/38bdf8?text=EduHub"
@@ -21,7 +21,7 @@
     "id": "proj-3",
     "title": "All-in-One Utility Platform",
     "description": "Solo Developer. Built an all-in-one utility web platform focusing on integrated tools and resources.",
-    "technologies": ["Python", "Django", "JavaScript"],
+    "technologies": ["Python", "Django", "JavaScript", "AI Integration", "PostgreSQL"],
     "link": "https://allinone-ixwn.onrender.com",
     "github": "#",
     "image": "https://placehold.co/600x400/1e293b/38bdf8?text=All+In+One"
