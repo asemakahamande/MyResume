@@ -664,19 +664,6 @@ function Projects({ projects }) {
                     {project.title}
                   </h3>
                 </div>
-                {project.link && (
-                  <a
-                    href={project.link}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="text-slate-500 hover:text-cyan-400 transition-colors flex-shrink-0"
-                    aria-label="Open project"
-                  >
-                    <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
-                    </svg>
-                  </a>
-                )}
               </div>
 
               {/* Description */}
@@ -685,9 +672,9 @@ function Projects({ projects }) {
               </p>
 
               {/* Tech stack */}
-              {project.tech && project.tech.length > 0 && (
-                <div className="flex flex-wrap gap-1.5">
-                  {project.tech.map((t) => (
+              {project.technologies && project.technologies.length > 0 && (
+                <div className="flex flex-wrap gap-1.5 mb-4">
+                  {project.technologies.map((t) => (
                     <span
                       key={t}
                       className="px-2 py-0.5 rounded-full text-xs bg-white/5 text-slate-400 border border-white/8"
@@ -695,6 +682,23 @@ function Projects({ projects }) {
                       {t}
                     </span>
                   ))}
+                </div>
+              )}
+
+              {/* Link */}
+              {project.link && project.link !== '#' && (
+                <div className="mt-auto pt-4 border-t border-white/5">
+                  <a
+                    href={project.link}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center gap-1.5 text-sm font-medium text-cyan-400 hover:text-cyan-300 transition-colors"
+                  >
+                    View Project
+                    <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+                    </svg>
+                  </a>
                 </div>
               )}
             </div>
