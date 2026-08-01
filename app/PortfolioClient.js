@@ -280,7 +280,7 @@ function Hero({ hasCV, cvFilename }) {
 
             {/* Full introduction */}
             <p className="text-slate-300 text-base leading-relaxed mb-4">
-              I am a <span className="text-purple-400 font-semibold">Software Engineer</span> specializing in{' '}
+              Having successfully transitioned from a classroom teacher to a self-driven programmer, I am now a <span className="text-purple-400 font-semibold">Software Engineer</span> specializing in{' '}
               <span className="text-cyan-400 font-semibold">Django and Python</span>, with hands-on experience building multi-tenant SaaS products, integrating <span className="text-blue-400 font-semibold">AI/agentic tool-calling</span> into production applications, and delivering data-driven solutions.
             </p>
             <p className="text-slate-400 text-sm leading-relaxed mb-6">
