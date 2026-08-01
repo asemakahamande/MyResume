@@ -1,19 +1,37 @@
 [
   {
     "id": "proj-1",
-    "title": "Multi-Tenant School Management SaaS Platform",
-    "description": "Extending a complete Django multi-tenant SaaS platform where multiple schools independently register and run their operations, with a new AI integration layer.",
+    "title": "EduSphere - Due Diligence EdTech",
+    "description": "Solo Developer. Built a complete Django multi-tenant SaaS platform where multiple schools independently register and run their operations, with a new AI integration layer.",
     "technologies": ["Django", "Celery", "Django REST Framework", "Django Channels", "ReportLab", "django-anymail", "PostgreSQL", "Anthropic Claude SDK", "Google Gemini"],
-    "link": "#",
+    "link": "https://edusphere.dueliligenceedu.com",
     "github": "#",
-    "image": "https://placehold.co/600x400/1e293b/38bdf8?text=School+SaaS+Platform"
+    "image": "https://placehold.co/600x400/1e293b/38bdf8?text=EduSphere"
   },
   {
     "id": "proj-2",
+    "title": "EduHub - Due Diligence EdTech",
+    "description": "Solo Developer. A comprehensive educational hub extending the Due Diligence ecosystem for seamless school management.",
+    "technologies": ["Django", "Celery", "PostgreSQL", "React"],
+    "link": "https://eduhub.dueliligenceedu.com",
+    "github": "#",
+    "image": "https://placehold.co/600x400/1e293b/38bdf8?text=EduHub"
+  },
+  {
+    "id": "proj-3",
+    "title": "All-in-One Utility Platform",
+    "description": "Solo Developer. Built an all-in-one utility web platform focusing on integrated tools and resources.",
+    "technologies": ["Python", "Django", "JavaScript"],
+    "link": "https://allinone-ixwn.onrender.com",
+    "github": "#",
+    "image": "https://placehold.co/600x400/1e293b/38bdf8?text=All+In+One"
+  },
+  {
+    "id": "proj-4",
     "title": "PythonWeekend — Community Python & Django Website",
-    "description": "Built the official website for PythonWeekend, a community coding workshop modeled on Django Girls aimed at introducing beginners to Python and web development. Implemented participant registration and event scheduling.",
+    "description": "Lead Developer. Built the official website for PythonWeekend, a community coding workshop aimed at introducing beginners to Python and web development. Implemented participant registration and event scheduling.",
     "technologies": ["Python", "Django", "HTML", "CSS"],
-    "link": "#",
+    "link": "https://www.pythonweekend.org/",
     "github": "#",
     "image": "https://placehold.co/600x400/1e293b/38bdf8?text=PythonWeekend"
   }

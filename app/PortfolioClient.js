@@ -832,16 +832,7 @@ function Contact({ hasCV, cvFilename }) {
           )}
         </div>
 
-        {/* Referee */}
-        <div className="reveal mt-10">
-          <div className="glass-card rounded-xl p-5 border border-white/5 text-center">
-            <p className="text-slate-500 text-xs uppercase tracking-widest mb-2">Referee</p>
-            <p className="text-white font-semibold">Mr. Benjamin Osai</p>
-            <a href="tel:08063204463" className="text-cyan-400 text-sm hover:underline">
-              08063204463
-            </a>
-          </div>
-        </div>
+
       </div>
     </section>
   );

@@ -1,5 +1,18 @@
 [
   {
+    "id": "exp-0",
+    "title": "AI Integration Specialist & Full Stack Developer",
+    "company": "Due Diligence EdTech Systems",
+    "location": "Remote",
+    "period": "2024 – Present",
+    "type": "Self-Employed",
+    "responsibilities": [
+      "Single-handedly designed, developed, and deployed a comprehensive school management SaaS platform supporting multiple tiers (Basic, Pro, Premium).",
+      "Integrated advanced Anthropic AI capabilities to create a powerful AI Co-Pilot for teachers and parents, enabling auto-grading, dynamic CBT exam generation, and intelligent reporting.",
+      "Built custom AI tool agents to interact seamlessly with the application database and extract deep insights on student performance through natural language."
+    ]
+  },
+  {
     "id": "exp-1",
     "title": "Python, Django & React.js Developer and Instructor",
     "company": "CodeCampus International",
