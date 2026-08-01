@@ -280,11 +280,11 @@ function Hero({ hasCV, cvFilename }) {
 
             {/* Full introduction */}
             <p className="text-slate-300 text-base leading-relaxed mb-4">
-              Having successfully transitioned from a classroom teacher to a self-driven programmer, I am now a <span className="text-purple-400 font-semibold">Software Engineer</span> specializing in{' '}
-              <span className="text-cyan-400 font-semibold">Django and Python</span>, with hands-on experience building multi-tenant SaaS products, integrating <span className="text-blue-400 font-semibold">AI/agentic tool-calling</span> into production applications, and delivering data-driven solutions.
+              Having successfully transitioned from a classroom teacher to a self-taught <span className="text-purple-400 font-semibold">software engineer</span>, I now specialize in{' '}
+              <span className="text-cyan-400 font-semibold">Django and Python</span>, with hands-on experience building multi-tenant SaaS applications, integrating <span className="text-blue-400 font-semibold">AI and agentic tool-calling</span> capabilities into production systems, and delivering data-driven solutions.
             </p>
             <p className="text-slate-400 text-sm leading-relaxed mb-6">
-              I am passionate about using technology and mentorship to grow software engineering, data science, and AI talent, and about combining a self-driven appetite for new skills with practical delivery.
+              I am passionate about leveraging technology and mentorship to develop talent in software engineering, data science, and artificial intelligence. I combine a strong commitment to continuous learning with a practical, results-oriented approach to delivering impactful solutions.
             </p>
 
             {/* Quick highlights */}
